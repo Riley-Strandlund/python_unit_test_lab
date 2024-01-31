@@ -38,8 +38,6 @@ def extract_answer_from_response(response):
     # TODO what would happen if the response dictionary was not in the expected form?
     # TODO can you modify this function to print an error message, and return None
     #   if the response dictionary is not in this structure? 
-    answer = response['answer']
-    return answer
 
 
 if __name__ == '__main__':

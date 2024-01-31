@@ -1,0 +1,18 @@
+# Why would it be hard to write tests for original_magic.py?  
+There are no functions to specifically target to test
+
+# Why was it re-written as functions, and why were the functions used chosen? 
+You can select a function to test a part of the project instead of a whole
+
+# What else could you test about this program?
+Test if the url was grabbed properly 
+Test if it properly received a response
+
+
+# What types of expected, and unexpected behavior might happen?
+
+
+# What is within the program's control? What is outside the program's control? 
+
+
+# Think about what valid, and invalid input could be passed to the functions. Remember that functions should not make any assumptions about how they will be called. 
